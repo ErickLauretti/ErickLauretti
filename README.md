@@ -1,6 +1,6 @@
 ### Olá! Eu sou Erick Lauretti 👋
 
-##### Atualmente sou estudante de Desenvolvimento Web FullStack na Trybe
+##### Desenvolvedor Front-End
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericklauretti/)
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ericklauretti&theme=blue-green)
